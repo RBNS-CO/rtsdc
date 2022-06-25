@@ -1,0 +1,81 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&family=Roboto+Serif:ital,opsz,wght@1,8..144,700&display=swap');
+h1, h2, h3, h4, h5  {
+    font-family: 'Roboto Serif', serif;
+    text-transform: none; !important;
+    line-height: 1.2 !important; 
+    letter-spacing: .25px !important; 
+    color: #F50179;
+
+}
+
+body, p, ul, ol, a { 
+    font-family: 'Open Sans', sans-serif;
+}
+
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:  500 !important;
+    text-transform: UPPERCASE !important;
+    letter-spacing: 1px !important;
+    color: #F50179;
+
+}
+
+.social {
+    display:  none !important;
+}
+
+p.copyright {
+    display:  none !important;
+}
+
+h1.title {
+    color: #F50179 !important;
+}
+
+h2.sub-title {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight:  500 !important;
+    text-transform: UPPERCASE !important;
+    letter-spacing: 1px !important;
+    color: #19191A !important;
+}
+
+.sidebar h3.title {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight:  500 !important;
+    text-transform: UPPERCASE !important;
+    letter-spacing: 1px !important;
+    color: #19191A !important;
+    font-size: 100% !important;
+}
+
+.email {
+    font-size:  90% !important;
+}
+
+.sidebar:first-of-type {
+    background: #FDF9FC; 
+}
+
+div.sidebar:first-of-type h3.title {
+    background:  #F6E3F0;
+}
+
+div.sidebar:first-of-type a.link.active {
+    background:  #FAEEF6;
+}
+
+.sidebar:last-of-type {
+    background: #FEFCE9; 
+}
+
+div.sidebar:last-of-type h3.title {
+    background:  #F9F193;
+}
+
+div.sidebar:last-of-type a.link.active {
+    background:  #FBF7BE;
+}
+
+
