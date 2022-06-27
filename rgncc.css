@@ -1,0 +1,14 @@
+@import url("https://use.typekit.net/nag3cyz.css");
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'mr-eaves-xl-sans', serif;
+text-transform: UPPERCASE;
+line-height: 90%;
+}
+
+body, p, ul, ol, a { 
+font-family: 'Varela', sans-serif; 
+font-size:  120%;
+}
+
