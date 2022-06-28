@@ -15,3 +15,11 @@ h6 {
     text-transform: UPPERCASE !important;
     letter-spacing: 2 !important;
 }
+
+.track--more {
+  color: #F5F5F7 !important;
+}
+
+.track__more {
+  background: #E19442 !important;
+}
