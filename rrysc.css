@@ -16,6 +16,15 @@ h6 {
     letter-spacing: 2 !important;
 }
 
+.track__count.active {
+  color: #E19442 !important;
+  font-weight: 600;
+}
+
+.track__count i {
+  color: #E19442 !important;
+}
+
 .track--more {
   color: #F5F5F7 !important;
 }
