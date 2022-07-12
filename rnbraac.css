@@ -6,9 +6,15 @@
   border-radius: 2px;
   white-space: normal;
   display: inline-block;
-  background: #ddaf98 !important;
-  border-color: #ddaf98 !important;
+  background: #EBDEDD !important;
+  border-color: #EBDEDD !important;
   color: #fff !important;
   padding: .8rem 1.125rem !important;
   width: 100%;
+  text-align: center;
+}
+
+.btnCTA:hover {
+  background: #CA9C94 !important;
+  border-color: #CA9C94 !important;
 }
