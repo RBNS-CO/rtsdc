@@ -1,0 +1,14 @@
+.btnCTA {
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 1.6;
+  font-weight: bold;
+  border-radius: 2px;
+  white-space: normal;
+  display: inline-block;
+  background: #ddaf98 !important;
+  border-color: #ddaf98 !important;
+  color: #fff !important;
+  padding: .8rem 1.125rem !important;
+  width: 100%;
+}
