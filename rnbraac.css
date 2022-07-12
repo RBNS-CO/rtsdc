@@ -18,3 +18,8 @@ a.btnCTA:hover {
   background: #CA9C94 !important;
   border-color: #CA9C94 !important;
 }
+
+.helloBox {
+  border: 1px solid white;
+  padding: .25rem .5rem;
+}
