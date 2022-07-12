@@ -6,10 +6,8 @@ a.btnCTA {
   border-radius: 2px;
   white-space: normal;
   display: inline-block;
-  background: #EBDEDD !important;
-  border-color: #EBDEDD !important;
-  color: #fff !important;
-  padding: .8rem 1.125rem !important;
+  background: #EEE1DA !important;
+  border-color: #EEE1DA !important;
   width: 100%;
   text-align: center;
 }
