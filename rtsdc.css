@@ -41,6 +41,10 @@ h2.sub-title {
     color: #19191A !important;
 }
 
+.sidebar .spacer {
+  padding: 20px 17px !important;
+}
+
 .sidebar h3.title {
     font-family: 'Open Sans', sans-serif !important;
     font-weight:  500 !important;
