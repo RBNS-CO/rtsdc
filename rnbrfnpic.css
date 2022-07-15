@@ -8,10 +8,11 @@ a.btnCTA {
   display: inline-block;
   background: #C49785 !important;
   border-color: #C49785 !important;
-  color: #000000 !important;
+  color: #FFFFFF !important;
   padding: .8rem 1.125rem !important;
   width: 100%;
   text-align: center;
+  text-transform: UPPERCASE;
 }
 
 a.btnCTA:hover {
