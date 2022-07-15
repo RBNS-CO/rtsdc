@@ -154,7 +154,7 @@ a {
   left: 0px;
   top: 0px;
   right: 0px;
-  z-index: 0;
+  z-index: -1;
   height: 600px;
   padding-top: 200px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 58.7%, 0.5)), to(hsla(0, 0%, 58.7%, 0.5)));
