@@ -1,0 +1,25 @@
+a.btnCTA {
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 1.6;
+  font-weight: bold;
+  border-radius: 2px;
+  white-space: normal;
+  display: inline-block;
+  background: #C49785 !important;
+  border-color: #C49785 !important;
+  color: #000000 !important;
+  padding: .8rem 1.125rem !important;
+  width: 100%;
+  text-align: center;
+}
+
+a.btnCTA:hover {
+  background: #DDAF98 !important;
+  border-color: #DDAF98 !important;
+}
+
+.helloBox {
+  border: 1px solid white;
+  padding: .25rem .5rem;
+}
