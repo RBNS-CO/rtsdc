@@ -6,4 +6,6 @@ margin-bottom: .5rem !important;
 p a:hover { 
 border-bottom: 2px solid #dee5e3 !important;
 margin-bottom: .5rem !important;
+filter: none !important;
+color: #dee5e3 !important;
 }
