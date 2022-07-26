@@ -2,7 +2,7 @@
 
 h1, h2, h3, h4, h5 {
   font-family: 'Lexend Deca', sans-serif !important;
-  text-transform: none !important;
+  text-transform: capitalize; !important;
 }
 
 h6 {
