@@ -15,3 +15,20 @@ body, p, ul, ol, a {
   text-transform: none !important;
 }
 
+/*
+.track__count.active {
+  color: #D9CAA5 !important;
+  font-weight: 600;
+}
+
+.track__count i {
+  color: #D9CAA5 !important;
+}
+
+.track--more {
+  color: #F5F5F7 !important;
+} */
+
+.track__more {
+  background: #84153D !important;
+}
