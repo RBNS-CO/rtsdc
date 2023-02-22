@@ -6,26 +6,7 @@ font-family: 'Marcellus', serif !important;
 font-family: 'Mulish', sans-serif !important;
 */
 
-h1, h2, h3, h4, h5 {
-  font-family: 'Marcellus', serif !important;
-  text-transform: UPPERCASE !important;
-  line-height: 110% !important;
-  font-weight:400 !important;
-}
-
-h6 {
-  font-family: 'Libre Baskerville', serif !important;
-  font-style: italic !important;
-  text-transform: lowercase !important;
-  letter-spacing: 0px !important;
-}
-
-.syllabus__title {
-  font-family: 'Mulish', sans-serif !important;
-  line-height: 110% !important;
-  }
-
-.panel__heading {
+h1, h2, h3, h4, h5, .panel__heading, .smart-next__text, .smart-next__link {
   font-family: 'Marcellus', serif !important;
   text-transform: UPPERCASE !important;
   line-height: 110% !important;
@@ -33,25 +14,20 @@ h6 {
   font-style: normal !important;
 }
 
-.panel__sub-title, .panel__sub-title a {
+h6, .panel__sub-title, .panel__sub-title a, .testimonial  {
   font-family: 'Libre Baskerville', serif !important;
   font-style: italic !important;
   text-transform: lowercase !important;
   letter-spacing: 0px !important;
 }
 
+body, p, ul, ol, a, .syllabus__title {
+  font-family: 'Mulish', sans-serif !important;
+  line-height: 110% !important;
+  }
+
 .caps {
   text-transform: UPPERCASE !important;
-}
-
-.testimonial {
-  font-family: 'Libre Baskerville', serif !important;
-  font-style: italic !important;
-  text-transform: lowercase !important;
-}
-
-body, p, ul, ol, a { 
-  font-family: 'Mulish', sans-serif !important;
 }
 
 .btn--solid, .mark-as-complete {
