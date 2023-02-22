@@ -54,7 +54,7 @@ body, p, ul, ol, a {
   font-family: 'Mulish', sans-serif !important;
 }
 
-.btn--solid {
+.btn--solid, .mark-as-complete {
   text-transform: UPPERCASE !important;
 }
 
