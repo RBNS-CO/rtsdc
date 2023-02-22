@@ -22,7 +22,11 @@ h6, .panel__sub-title, .panel__sub-title a, .testimonial, .syllabus__heading  {
   letter-spacing: 0px !important;
 }
 
-body, p, ul, ol, a, .smart-next__text, .smart-next__link--small, .header-menu {
+.syllabus__heading:not(:first-of-type) {
+  margin-top: 3rem !important;
+}
+
+body, p, ul, ol, a, .smart-next__text, .smart-next__link--small, .header-menu a {
   font-family: 'Mulish', sans-serif !important;
   line-height: 110% !important;
   text-transform: none !important;
