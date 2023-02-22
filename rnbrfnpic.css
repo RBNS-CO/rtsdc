@@ -33,7 +33,7 @@ h6 {
   font-style: normal !important;
 }
 
-.panel__sub-title {
+.panel__sub-title, .panel__sub-title a {
   font-family: 'Libre Baskerville', serif !important;
   font-style: italic !important;
   text-transform: lowercase !important;
