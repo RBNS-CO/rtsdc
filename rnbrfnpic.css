@@ -25,8 +25,15 @@ h6 {
   line-height: 110% !important;
   }
 
+.panel__heading {
+  font-family: 'Marcellus', serif !important;
+  text-transform: UPPERCASE !important;
+  line-height: 110% !important;
+  font-weight:400 !important;
+}
+
 .caps {
-  
+  text-transform: UPPERCASE !important;
 }
 
 .testimonial {
