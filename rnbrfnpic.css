@@ -33,6 +33,13 @@ h6 {
   font-style: normal !important;
 }
 
+.panel__sub-title {
+  font-family: 'Libre Baskerville', serif !important;
+  font-style: italic !important;
+  text-transform: lowercase !important;
+  letter-spacing: 0px !important;
+}
+
 .caps {
   text-transform: UPPERCASE !important;
 }
