@@ -6,7 +6,7 @@ font-family: 'Marcellus', serif !important;
 font-family: 'Mulish', sans-serif !important;
 */
 
-h1, h2, h3, h4, h5, .panel__heading, .smart-next__link, .syllabus__heading {
+h1, h2, h3, h4, h5, .panel__heading, .smart-next__link,  {
   font-family: 'Marcellus', serif !important;
   text-transform: UPPERCASE !important;
   line-height: 110% !important;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, .panel__heading, .smart-next__link, .syllabus__heading {
   letter-spacing: 0 !important;
 }
 
-h6, .panel__sub-title, .panel__sub-title a, .testimonial  {
+h6, .panel__sub-title, .panel__sub-title a, .testimonial, .syllabus__heading  {
   font-family: 'Libre Baskerville', serif !important;
   font-style: italic !important;
   text-transform: lowercase !important;
