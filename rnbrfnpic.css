@@ -47,6 +47,10 @@ body, p, ul, ol, a {
   font-family: 'Mulish', sans-serif !important;
 }
 
+.btn--solid {
+  text-transform: UPPERCASE !important;
+}
+
 .btn--med {
   padding: .8rem 1.125rem !important;
 }
