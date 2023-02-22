@@ -6,12 +6,13 @@ font-family: 'Marcellus', serif !important;
 font-family: 'Mulish', sans-serif !important;
 */
 
-h1, h2, h3, h4, h5, .panel__heading, .smart-next__link {
+h1, h2, h3, h4, h5, .panel__heading, .smart-next__link, .syllabus__heading {
   font-family: 'Marcellus', serif !important;
   text-transform: UPPERCASE !important;
   line-height: 110% !important;
   font-weight:400 !important;
   font-style: normal !important;
+  letter-spacing: 0 !important;
 }
 
 h6, .panel__sub-title, .panel__sub-title a, .testimonial  {
@@ -21,9 +22,10 @@ h6, .panel__sub-title, .panel__sub-title a, .testimonial  {
   letter-spacing: 0px !important;
 }
 
-body, p, ul, ol, a, .syllabus__title, .smart-next__text, .smart-next__link--small {
+body, p, ul, ol, a, .syllabus__title, .smart-next__text, .smart-next__link--small, .header-menu {
   font-family: 'Mulish', sans-serif !important;
   line-height: 110% !important;
+  text-transform: none !important;
   }
 
 .caps {
