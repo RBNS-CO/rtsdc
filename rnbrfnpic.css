@@ -43,8 +43,6 @@ body, p, ul, ol, a, .smart-next__text, .smart-next__link--small {
 }
 
 .btn--solid, .mark-as-complete, .btn--completion {
-  border-color: #000000 !important;
-  color: #000000 !important;
   margin-bottom: 0;
   text-transform: uppercase !important;
 }
