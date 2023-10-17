@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5  {
   letter-spacing: 0 !important;
 }
 
-h6, .panel__sub-title, .panel__sub-title a, .testimonial, .syllabus__heading  {
+h6 {
   font-family: 'Libre Baskerville', serif !important;
   font-style: italic !important;
   text-transform: lowercase !important;
@@ -30,4 +30,9 @@ em {
   font-family: 'Baskerville' !important;
   text-transform: lowercase !important;
   font-size: 1.2em !important;
+}
+
+p {
+  font-family: 'Mulish', sans-serif !important;
+  line-height:120% !important;
 }
