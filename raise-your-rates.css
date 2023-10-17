@@ -23,7 +23,7 @@ b, strong {
   letter-spacing: .1em;
   padding-left: 12px;
   padding-right: 12px;
-  color: #68634f;
+  opacity: .8;
 }
 
 em {
