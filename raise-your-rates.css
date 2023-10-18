@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Marcellus&family=Mulish:wght@300;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Marcellus&display=swap');
 @import url("https://use.typekit.net/ulr7uxx.css");
 
 h1, h2, h3, h4, h5  {
@@ -32,7 +32,7 @@ em {
   font-size: 1.2em !important;
 }
 
-p {
-  font-family: 'Muli', sans-serif !important;
+body, p, ul, ol {
+  font-family: 'Mulish', sans-serif !important;
   line-height:120% !important;
 }
