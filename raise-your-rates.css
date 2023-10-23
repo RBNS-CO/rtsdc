@@ -19,9 +19,9 @@ h6 {
 
 b, strong {
   font-size: .5em !important;
-  font-family: 'Mulish' !important;
+  font-family: 'Muli', 'Mulish' !important;
   letter-spacing: .1em !important;
-  padding-left: 12px !important;
+  padding-left: 12px !important;1
   padding-right: 12px !important;
   opacity: .8 !important;
 }
@@ -33,6 +33,6 @@ em {
 }
 
 body, p, ul, ol {
-  font-family: 'Mulish', sans-serif !important;
+  font-family: 'Muli', 'Mulish', sans-serif !important;
   line-height:120% !important;
 }
