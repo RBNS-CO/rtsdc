@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Marcellus&display=swap');
 @import url("https://use.typekit.net/ulr7uxx.css");
 
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
 h1, h2, h3, h4, h5  {
   font-family: 'Marcellus', serif !important;
   text-transform: UPPERCASE !important;
